@@ -15,6 +15,8 @@
   <img align="center" width="55" height="55" alt="download-removebg-preview (2)" src="https://github.com/user-attachments/assets/2010b3c8-065e-44e7-9541-bc9619547629" />
   <img align="center" width="55" height="55" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/9b9b37c5-a8d7-4597-a800-8a8ad1bea66f" />
   <img align="center" width="75" height="63" alt="download-removebg-preview (4)" src="https://github.com/user-attachments/assets/84f15508-33e3-401b-a5c2-f4fb21291518" />
+  <img align="center" width="55" height="55" alt="download-removebg-preview (6)" src="https://github.com/user-attachments/assets/4b240756-730b-4026-b5eb-4128178a9d99" />
+
   <br><br>
   <h2>₊ ⊹Projetos Concluídos₊ ⊹</h2>
   <a href="https://github.com/AmandaPradoGit/IndWork" target="_blank">★ IndWork</a> - Projeto para conectar prestadores de serviço a contratantes <br><br>
@@ -29,4 +31,8 @@
   <img align="center" width="35" height="35" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/9b9b37c5-a8d7-4597-a800-8a8ad1bea66f" />
   <br><br>
   <h2>₊ ⊹Projetos em Andamento₊ ⊹</h2>
+  <a href="https://github.com/AmandaPradoGit/GoethosLib" target="_blank">★ GoethosLib</a> - Projeto de estante virtual e organização de leituras <br><br>
+    <img align="center" width="55" height="55" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/9b9b37c5-a8d7-4597-a800-8a8ad1bea66f" />
+  
+  
   
