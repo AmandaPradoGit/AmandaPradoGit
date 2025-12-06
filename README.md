@@ -28,6 +28,8 @@
   <a href="https://github.com/AmandaPradoGit/ProjetoDairo" target="_blank">★ Dairo</a> - Projeto para organização pessoal 
   <img align="center" width="30" height="30" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/397f4c84-0c00-4522-a2ef-24ccd6a90a5d" />
   <br><br>
+  <a href="https://github.com/AmandaPradoGit/SensorFumaca" target="_blank">★ Sensor de Fumaça</a> - Projeto de Curricularização para a comunidade de Cruzeiro
+    <img align="center" width="30" height="30" alt="download-removebg-preview (5)" src="https://github.com/user-attachments/assets/f312f870-c78e-4257-95f4-e5cc3a4e864e" /><br><br>
   <h2>₊ ⊹Projetos em Andamento₊ ⊹</h2>
   <a href="https://github.com/AmandaPradoGit/GoethosLib" target="_blank">★ GoethosLib</a> - Projeto de estante virtual e organização de leituras
     <img align="center" width="32" height="31" alt="OIP-removebg-preview (15)" src="https://github.com/user-attachments/assets/1b76b4a5-e2f3-4b90-9947-fca56e03c0ff" /> <br><br>
