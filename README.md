@@ -33,8 +33,6 @@
   <h2>₊ ⊹Projetos em Andamento₊ ⊹</h2>
   <a href="https://github.com/AmandaPradoGit/GoethosLib" target="_blank">★ GoethosLib</a> - Projeto de estante virtual e organização de leituras
     <img align="center" width="32" height="31" alt="OIP-removebg-preview (15)" src="https://github.com/user-attachments/assets/1b76b4a5-e2f3-4b90-9947-fca56e03c0ff" /> <br><br>
-  <a href="https://github.com/AmandaPradoGit/SensorFumaca" target="_blank">★ Sensor de Fumaça</a> - Projeto de Curricularização para a comunidade de Cruzeiro
-    <img align="center" width="30" height="30" alt="download-removebg-preview (5)" src="https://github.com/user-attachments/assets/f312f870-c78e-4257-95f4-e5cc3a4e864e" /><br><br>
     <a href="https://github.com/AmandaPradoGit/PandaTalk" target="_blank">★ PandaTalk</a> - Projeto de Graduação, com visão computacional para tradução de Libras.
     <img align="center" width="25" height="25" alt="download-removebg-preview (6)" src="https://github.com/user-attachments/assets/4b240756-730b-4026-b5eb-4128178a9d99" />
    <br><br>
