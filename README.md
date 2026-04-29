@@ -1,31 +1,41 @@
+<img width="1400" height="350" alt="github" src="https://github.com/user-attachments/assets/3007a4c0-8464-4093-8e43-eca704e08da5" />
 
-  <img width="1400" height="350" alt="github" src="https://github.com/user-attachments/assets/3007a4c0-8464-4093-8e43-eca704e08da5" />
-  <br><br>
-  
-  ## Olá!! ᨐฅ 
-  Eu sou a Amanda, estudante de análise e desenvolvimento de sistemas do 4° semestre na Fatec Cruzeiro ᨐ
-  <br><br>
+<br><br>
+
+## Olá!! ᨐฅ 
+Eu sou a Amanda, estudante de análise e desenvolvimento de sistemas do 4° semestre na Fatec Cruzeiro ᨐ
+
+<br>
+
 <h2>⋆˚✿˖°Tecnologias⋆˚✿˖°</h2>
-  <img align="center" width="60" height="60" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/397f4c84-0c00-4522-a2ef-24ccd6a90a5d" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="174" height="100" alt="OIP-removebg-preview (13)" src="https://github.com/user-attachments/assets/2cdf2ce5-0c73-4a3d-b7f9-141be4e2b7f1" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="60" height="60" alt="c--4-removebg-preview" src="https://github.com/user-attachments/assets/1041db65-a6b4-476f-b05a-d3b7bafb0409" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="38" height="60" alt="OIP-removebg-preview (11)" src="https://github.com/user-attachments/assets/6c0491c0-d6c3-44a5-ad28-04e3f7e2d30a" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="60" height="60" alt="download-removebg-preview (5)" src="https://github.com/user-attachments/assets/f312f870-c78e-4257-95f4-e5cc3a4e864e" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="62" height="81" alt="OIP-removebg-preview (15)" src="https://github.com/user-attachments/assets/1b76b4a5-e2f3-4b90-9947-fca56e03c0ff" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="55" height="55" alt="download-removebg-preview (2)" src="https://github.com/user-attachments/assets/2010b3c8-065e-44e7-9541-bc9619547629" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="55" height="55" alt="download-removebg-preview (3)" src="https://github.com/user-attachments/assets/9b9b37c5-a8d7-4597-a800-8a8ad1bea66f" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="75" height="63" alt="download-removebg-preview (4)" src="https://github.com/user-attachments/assets/84f15508-33e3-401b-a5c2-f4fb21291518" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" width="55" height="55" alt="download-removebg-preview (6)" src="https://github.com/user-attachments/assets/4b240756-730b-4026-b5eb-4128178a9d99" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <br><br>
-  
-   <h2>₊ ⊹Contato₊ ⊹</h2>
-   <a href="www.linkedin.com/in/amanda-prado-197a12288" target="_blank">
-  <img align="center" src="https://github.com/user-attachments/assets/b0dcb9d3-a986-416f-acf2-dc4a30a3d4ad" alt="Descrição" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:amandapradogc@gmail.com" target="_blank">
-  <img align="center" src="https://github.com/user-attachments/assets/6d32a3b0-5ffa-4a9a-9731-936d010b2c66" alt="Descrição" width="50" height="50" />
+<p align="center">
+  <img height="60" src="https://github.com/user-attachments/assets/397f4c84-0c00-4522-a2ef-24ccd6a90a5d" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/2cdf2ce5-0c73-4a3d-b7f9-141be4e2b7f1" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/1041db65-a6b4-476f-b05a-d3b7bafb0409" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/6c0491c0-d6c3-44a5-ad28-04e3f7e2d30a" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/f312f870-c78e-4257-95f4-e5cc3a4e864e" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/1b76b4a5-e2f3-4b90-9947-fca56e03c0ff" /> &nbsp;&nbsp;
+  <img height="55" src="https://github.com/user-attachments/assets/2010b3c8-065e-44e7-9541-bc9619547629" /> &nbsp;&nbsp;
+  <img height="55" src="https://github.com/user-attachments/assets/9b9b37c5-a8d7-4597-a800-8a8ad1bea66f" /> &nbsp;&nbsp;
+  <img height="60" src="https://github.com/user-attachments/assets/84f15508-33e3-401b-a5c2-f4fb21291518" /> &nbsp;&nbsp;
+  <img height="55" src="https://github.com/user-attachments/assets/4b240756-730b-4026-b5eb-4128178a9d99" />
+</p>
 
-    
-  
+<br>
+<h2>₊ ⊹Contato₊ ⊹</h2>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none; background: none;">
+    <td style="border: none; background: none;">
+      <a href="https://www.linkedin.com/in/amanda-prado-197a12288" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b0dcb9d3-a986-416f-acf2-dc4a30a3d4ad" width="40" height="40" />
+      </a>
+    </td>
+    <td style="border: none; background: none; padding-left: 10px;">
+      <a href="mailto:amandapradogc@gmail.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6d32a3b0-5ffa-4a9a-9731-936d010b2c66" width="55" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
